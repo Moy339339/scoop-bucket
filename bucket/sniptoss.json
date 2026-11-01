@@ -1,12 +1,12 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Annotate AI-generated images and videos, then hand the notes back to your coding agent.",
   "homepage": "https://github.com/Moy339339/SnipToss",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Moy339339/SnipToss/releases/download/v1.1.0/SnipToss-1.1.0-win-x64-portable.zip",
-      "hash": "bc76adcdd71cd52fc8e74e00402baf5a84c2095dd3fc26ae931409148c6fc01d",
+      "url": "https://github.com/Moy339339/SnipToss/releases/download/v1.1.1/SnipToss-1.1.1-win-x64-portable.zip",
+      "hash": "a0d9aa57704d91da21a1884339546a5839b15ada24806ebc6c7893fa67d2d6f2",
       "extract_dir": "SnipToss"
     }
   },
